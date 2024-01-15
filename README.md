@@ -31,10 +31,9 @@ cd forest-parallax
 
 ## Media
 
-![Parallax-Gallery](./img/Parallax-Gallery.gif)
-![parallax-gallery_1](./img/parallax-gallery_1.png)
-![parallax-gallery_2](./img/parallax-gallery_2.png)
-![parallax-gallery_3](./img/parallax-gallery_3.png)
+![Forest-Parallax](./img/Forest-Parallax.gif)
+![forest-parallax_1](./img/forest-parallax_1.jpg)
+![forest-parallax_2](./img/forest-parallax_2.jpg)
 
 ## Contributing
 

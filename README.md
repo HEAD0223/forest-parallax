@@ -1,5 +1,10 @@
 # Forest Parallax Project
 
+![Landing](https://img.shields.io/badge/Landing-Forest_Parallax-brightgreen)
+![Self Development](https://img.shields.io/badge/Project-Self_Development-red)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+[![Working on](https://img.shields.io/badge/Working_on-Chrome-informational?logo=google-chrome&logoColor=white)](https://head0223.github.io/forest-parallax/)
+
 Embark on a journey through the Forest Parallax, an immersive and visually stunning website that captures the essence of nature.
 
 ## Table of Contents
